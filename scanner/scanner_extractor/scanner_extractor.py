@@ -1,0 +1,1 @@
+future_ideas = "Here i will put the ui -> scanner and scanner -> functions"
